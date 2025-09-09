@@ -12,3 +12,6 @@ Esse é um projeto web que engloba aprendizados sobre HTML5, CSS3, Bootstrap e J
 ### Aulas Iniciais
 
 Link:
+
+### Link projeto
+https://nicolasa-27.github.io/F-lix/
